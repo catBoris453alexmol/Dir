@@ -1,0 +1,25 @@
+1 Alipov Artem Antonovich
+2 Alexey Channov
+3 Alexey Bezdelev
+4 Blinov Mikhail Vladimirovich
+5 Bezrukov Artem
+6 Bazhanova Olga Igorevna
+7 Druzhinin Artem Sergeevich
+8 Diana Kuzmicheva
+9 Derevenets Maria Ivanovna
+10 Fadeev Dmitry Alexandrovich
+11 Gorokhov Kirill Vladimirovich
+12 Krutov Sergey Alexandrovich
+13 Kashirnikov Savely Alexandrovich
+14 Koloskov Vadim Vladimirovich
+15 Moklokov Artem Vyacheslavovich
+16 Mironov Roman Dmitrievich
+17 Molokin Alexander Dmitrievich
+18 Nikonov Andrey Sergeevich
+19 Petrunin Daniil Eduardovich
+20 Panov Alexander Mikhailovich
+21 Shanin Maxim Mikhailovich
+22 Serebryakov Alexey Alexandrovich
+23 Stozhkov Danila Alekseevich
+24 Vapilin Alexander Dmitrievich
+25 Vostryakov Maxim Yurievich
